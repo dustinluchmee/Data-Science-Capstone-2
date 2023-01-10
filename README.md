@@ -1,4 +1,4 @@
-# Data-Science-Capstone-2
+# Stock market prediction using Tweets
 ## Using Twitter tweets and news headlines to predict stock market day return
 ### Techniques employed:
 - Exploratory data analysis
